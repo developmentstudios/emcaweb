@@ -9,7 +9,7 @@ h1 {padding-top: 350px;}
 
 <div id="container">
 	<div id="main">
-	  <h1 class="signup">Comming Soon</h1>
+	  <h1 class="signup">Coming Soon</h1>
   </div>
 </div>
 
